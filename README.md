@@ -29,7 +29,7 @@ PetPedia es una aplicación web desarrollada con React que permite a los usuario
    npm start
    ```
 
-La aplicación estará disponible en `https://www.netlify.com/`.
+La aplicación estará disponible en `https://biologiapp.netlify.app/`.
 
 ## Estructura del Proyecto
 
